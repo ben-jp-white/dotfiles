@@ -22,8 +22,8 @@
 	
 	uncommit = reset --soft HEAD^
 [user]
-	name = Christopher Butcher
-	email = christopher.butcher@shopify.com
+	name = Ben White
+	email = ben.jp.white@shopify.com
 [rerere]
 	enabled = true
 [push]
@@ -37,9 +37,8 @@
 [protocol]
 	version = 2
 [core]
-	editor = nvim
+	editor = nano
 	commitGraph = true
-	excludesfile = /Users/chris/.gitignore_global
 [gc]
 	writeCommitGraph = true
 [pull]
